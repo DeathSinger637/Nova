@@ -14,7 +14,7 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 Object.defineProperty(exports, "__esModule", { value: true });
 
 const lzutf8 = require("lzutf8");
-const DataResolver = require("./DataResolver.js/index.js");
+const DataResolver = require("./DataResolver.js");
 class ClientUtils {
     constructor(client) {
         this.client = client;
