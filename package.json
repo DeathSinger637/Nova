@@ -1,0 +1,24 @@
+{
+  "name": "nova",
+  "version": "1.0.0",
+  "description": "Nova is a simple discord js framework made specific for SecuroServ Bot by DeathSinger.Credits to Sankarsan Kampa author of Tesseract.",
+  "main": "Nova.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeathSinger637/Nova.git"
+  },
+  "author": "DeathSinger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DeathSinger637/Nova/issues"
+  },
+  "homepage": "https://github.com/DeathSinger637/Nova#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "lzutf8": "^0.5.5",
+    "yaml": "^1.7.0"
+  }
+}
