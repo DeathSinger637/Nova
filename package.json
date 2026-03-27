@@ -19,6 +19,6 @@
   "dependencies": {
     "discord.js": "^11.5.1",
     "lzutf8": "^0.5.5",
-    "yaml": "^1.7.0"
+    "yaml": "^1.10.3"
   }
 }
